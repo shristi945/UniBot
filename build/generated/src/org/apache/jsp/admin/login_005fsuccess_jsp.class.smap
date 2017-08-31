@@ -1,0 +1,20 @@
+SMAP
+login_005fsuccess_jsp.java
+JSP
+*S JSP
+*F
++ 0 login_success.jsp
+admin/login_success.jsp
++ 1 checksession.jsp
+admin/checksession.jsp
++ 2 menu.jsp
+admin/menu.jsp
+*L
+1,6:50
+5#1,11:56
+16,6:68
+21,4:74
+6#0,2:77
+1#2,16:79
+7#0,7:94
+*E
